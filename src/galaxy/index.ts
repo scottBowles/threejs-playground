@@ -1,5 +1,6 @@
 import * as THREE from "three";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
+import { FlyControls } from "three/examples/jsm/controls/FlyControls.js";
 import {
   calculateEllipticalOrbitPosition,
   calculateOrbitalVelocity,
@@ -20,6 +21,13 @@ async function setupSolarSystem(): Promise<void> {
   const canvas = document.getElementById("solarSystem") ?? undefined;
   const renderer = new THREE.WebGLRenderer({ canvas });
   const gltfLoader = new GLTFLoader();
+
+  // Inside your setupSolarSystem function:
+  const flyControls: FlyControls = new FlyControls(camera, renderer.domElement);
+  flyControls.movementSpeed = 20; // Adjust movement speed as needed
+  flyControls.rollSpeed = Math.PI / 24; // Adjust roll speed as needed
+  // flyControls.autoForward = true;
+  flyControls.dragToLook = true;
 
   camera.position.set(0, 150, 0);
   camera.lookAt(0, 0, 0);
@@ -61,6 +69,8 @@ async function setupSolarSystem(): Promise<void> {
 
   function animate(): void {
     requestAnimationFrame(animate);
+
+    flyControls.update(0.01); // Update controls in the animation loop
 
     planetMeshes.forEach((planetMesh) => {
       const planetData: PlanetData = PLANET_DATA[planetMeshes.indexOf(planetMesh)];
