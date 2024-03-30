@@ -47,7 +47,7 @@ export const SUN_DATA: SunData[] = [
 
 export const PLANET_DATA: PlanetData[] = [
   {
-    url: "lava_planet_4k.glb",
+    url: "lava_planet_1k.glb",
     name: "Blue",
     size: 3,
     color: 0x0000ff,
@@ -59,7 +59,7 @@ export const PLANET_DATA: PlanetData[] = [
     inclination: 0.02,
   },
   {
-    url: "lava_planet_4k.glb",
+    url: "lava_planet_1k.glb",
     name: "Green",
     size: 5,
     color: 0x00ff00,
@@ -71,7 +71,7 @@ export const PLANET_DATA: PlanetData[] = [
     inclination: 0.1,
   },
   {
-    url: "lava_planet_4k.glb",
+    url: "lava_planet_1k.glb",
     name: "Orange",
     size: 4,
     color: 0xffa500,
@@ -83,7 +83,7 @@ export const PLANET_DATA: PlanetData[] = [
     inclination: -0.2,
   },
   {
-    url: "lava_planet_4k.glb",
+    url: "lava_planet_1k.glb",
     name: "Purple",
     size: 2,
     color: 0x800080,
@@ -95,7 +95,7 @@ export const PLANET_DATA: PlanetData[] = [
     inclination: 0,
   },
   {
-    url: "lava_planet_4k.glb",
+    url: "lava_planet_1k.glb",
     name: "Blue",
     size: 3,
     color: 0x0000ff,
@@ -107,7 +107,7 @@ export const PLANET_DATA: PlanetData[] = [
     inclination: 0.02,
   },
   {
-    url: "lava_planet_4k.glb",
+    url: "lava_planet_1k.glb",
     name: "Green",
     size: 5,
     color: 0x00ff00,
@@ -119,7 +119,7 @@ export const PLANET_DATA: PlanetData[] = [
     inclination: 0.1,
   },
   {
-    url: "lava_planet_4k.glb",
+    url: "lava_planet_1k.glb",
     name: "Orange",
     size: 4,
     color: 0xffa500,
@@ -131,7 +131,7 @@ export const PLANET_DATA: PlanetData[] = [
     inclination: -0.2,
   },
   {
-    url: "lava_planet_4k.glb",
+    url: "lava_planet_1k.glb",
     name: "Purple",
     size: 2,
     color: 0x800080,
