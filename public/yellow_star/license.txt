@@ -1,0 +1,11 @@
+Model Information:
+* title:	Yellow star
+* source:	https://sketchfab.com/3d-models/yellow-star-66d8471667bd448a8ab46c5cb6bb5f8d
+* author:	dainius.vareika (https://sketchfab.com/dainius.vareika)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Yellow star" (https://sketchfab.com/3d-models/yellow-star-66d8471667bd448a8ab46c5cb6bb5f8d) by dainius.vareika (https://sketchfab.com/dainius.vareika) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

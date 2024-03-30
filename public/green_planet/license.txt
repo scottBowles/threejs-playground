@@ -1,0 +1,11 @@
+Model Information:
+* title:	Green Planet
+* source:	https://sketchfab.com/3d-models/green-planet-965dcf47e69e4c139741598162b147cf
+* author:	jimmyn64 (https://sketchfab.com/jimmyn64)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Green Planet" (https://sketchfab.com/3d-models/green-planet-965dcf47e69e4c139741598162b147cf) by jimmyn64 (https://sketchfab.com/jimmyn64) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
